@@ -19,7 +19,7 @@ I'm a Software Engineering student at the University of Victoria who loves blend
 
 ## 📫 How to Reach Me
 - Gmail: [chiragsd13@gmail.com](mailto:chiragsd13@gmail.com)
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: [https://www.linkedin.com/in/chiragsd13?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - GitHub: [github.com/Chiragsd13](https://github.com/Chiragsd13)
 
 > “Code is poetry if you write it with passion.”
