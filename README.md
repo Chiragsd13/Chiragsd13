@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Chiragsd13
-- 👀 I’m interested in Adobe Apps like photoshop
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 U can reach me through Chiragsd13@gmail.com
+# Hey there! I'm Chirag Sood
 
-<!---
-Chiragsd13/Chiragsd13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineering student at the University of Victoria who loves blending tech and creativity.
+
+## 🔧 What I'm Working On
+- Exploring Java, Python, and web development
+- Building personal projects to learn full-stack development
+- Learning design tools like Adobe Photoshop to add a creative touch
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Version Control with Git & GitHub
+- Frontend with HTML, CSS & JavaScript
+
+## 🤝 Looking to Collaborate On
+- Beginner-friendly open source projects
+- Creative tech ideas (design + code)
+- Cool web app ideas
+
+## 📫 How to Reach Me
+- Gmail: [chiragsd13@gmail.com](mailto:chiragsd13@gmail.com)
+- LinkedIn: [Add your LinkedIn link here]
+- GitHub: [github.com/Chiragsd13](https://github.com/Chiragsd13)
+
+> “Code is poetry if you write it with passion.”
