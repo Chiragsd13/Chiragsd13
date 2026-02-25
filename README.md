@@ -53,7 +53,7 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 * **Tech Stack:** React, Tailwind CSS, Generative AI (Google Gemini).
 * **Innovation:** Created an interactive branching story engine to visualize the impact of conflict resolution choices through a "Healing Dashboard."
 
-#### Food Donation & Soup Kitchen Platform 🍎
+#### [Food Donation & Soup Kitchen Platform](https://github.com/eshu3104/uvichacks-jan26.git) 🍎
 * **Tech Stack:** Firebase, Route Optimization Algorithms, Gemini 1.5 Pro.
 * **Innovation:** Integrated real-time inventory tracking and optimized delivery logistics to streamline food distribution.
 
@@ -69,4 +69,3 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 ## 📫 Let's Connect
 - **LinkedIn:** [Chiragsd13](https://linkedin.com/in/Chiragsd13)
 - **Email:** [chiragsood@uvic.ca](mailto:chiragsood@uvic.ca)
-- **GitHub:** [Chiragsd13](https://github.com/Chiragsd13)
