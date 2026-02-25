@@ -8,10 +8,8 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 ---
 
 ## 📈 My Coding Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chiragsd13&theme=transparent&border_radius=7&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiragsd13&theme=dark&border_radius=7" alt="GitHub Streak" />
-</p>
 
 ---
 
