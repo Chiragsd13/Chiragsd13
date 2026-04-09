@@ -58,7 +58,9 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 #### [Claude Smart Routing](https://github.com/Chiragsd13/claude-smart-routing) 🤖
 * **Tech Stack:** Claude API (Haiku / Sonnet / Opus), TypeScript, Prompt Engineering.
 * **What it does:** Intelligent routing layer that auto-selects the right Claude model based on task complexity — cutting token costs without sacrificing quality. Combines ideas from leading open-source Claude toolkits.
-
+#### [Hazard Reporter - Incident Management Platform](https://github.com/Janhvi-Pandya/hazard-reporter) 🚨
+* **Tech Stack:** React, TypeScript, Node.js, Express.js, SQLite, Tailwind CSS, Vite.
+* **What it does:** Full-stack incident reporting platform with role-based access control (admin/user), AI-driven smart routing to auto-assign hazards by category and urgency, real-time filtering dashboard, interactive map pinning, and JWT-inspired auth. Built in collaboration at the Claude Hackathon.
 #### [CommonGround - Restorative Justice Platform](https://github.com/Anshit-K/VikesXWecs-Hackathon.git) ⚖️
 * **Tech Stack:** React, Tailwind CSS, Generative AI (Google Gemini).
 * **Innovation:** Created an interactive branching story engine to visualize the impact of conflict resolution choices through a "Healing Dashboard."
