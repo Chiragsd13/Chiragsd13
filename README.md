@@ -3,13 +3,20 @@
 ### Aspiring Software Engineer @ University of Victoria 🇨🇦
 **Actively seeking Summer 2026 Co-op opportunities**
 
+![Profile Views](https://komarev.com/ghpvc/?username=Chiragsd13&color=58a6ff&style=flat-square&label=Profile+Views)
+
 I am a Software Engineering student (Class of 2027) at the University of Victoria with a passion for building high-impact solutions that merge **Generative AI** with **Social Good**. I am a Linux power user, a cybersecurity enthusiast, and a two-time hackathon winner.
 
 ---
 
-## 📈 My Coding Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chiragsd13&theme=transparent&border_radius=7&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+## 📈 GitHub Activity
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chiragsd13&theme=transparent&border_radius=7&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragsd13&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
+</div>
 
 ---
 
@@ -21,6 +28,7 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 | **Frameworks** | [React](https://react.dev/), [Redux](https://redux.js.org/), [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Tailwind CSS](https://tailwindcss.com/) |
 | **Cloud & Backend** | [Firebase](https://firebase.google.com/) (Auth, Firestore, Functions), [Gemini API](https://ai.google.dev/), [Google Cloud](https://cloud.google.com/) |
 | **Cyber & DevOps** | [Linux](https://www.linux.org/) (Ubuntu/Kali), [Docker](https://www.docker.com/), [GitHub Actions](https://github.com/features/actions), [CI/CD](https://about.gitlab.com/topics/ci-cd/), [Nmap](https://nmap.org/), [Burp Suite](https://portswigger.net/burp) |
+| **AI & LLMs** | [Claude API](https://docs.anthropic.com/), [Gemini 1.5 Pro](https://ai.google.dev/), Prompt Engineering, Agent Orchestration |
 
 ---
 
@@ -45,7 +53,11 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 
 ---
 
-## 📂 Featured Projects (Completed)
+## 📂 Featured Projects
+
+#### [Claude Smart Routing](https://github.com/Chiragsd13/claude-smart-routing) 🤖
+* **Tech Stack:** Claude API (Haiku / Sonnet / Opus), TypeScript, Prompt Engineering.
+* **What it does:** Intelligent routing layer that auto-selects the right Claude model based on task complexity — cutting token costs without sacrificing quality. Combines ideas from leading open-source Claude toolkits.
 
 #### [CommonGround - Restorative Justice Platform](https://github.com/Anshit-K/VikesXWecs-Hackathon.git) ⚖️
 * **Tech Stack:** React, Tailwind CSS, Generative AI (Google Gemini).
@@ -54,6 +66,10 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 #### [Food Donation & Soup Kitchen Platform](https://github.com/eshu3104/uvichacks-jan26.git) 🍎
 * **Tech Stack:** Firebase, Route Optimization Algorithms, Gemini 1.5 Pro.
 * **Innovation:** Integrated real-time inventory tracking and optimized delivery logistics to streamline food distribution.
+
+#### [Microsoft Edge Uninstaller](https://github.com/Chiragsd13/microsoft-edge-uninstaller) 🧹
+* **Tech Stack:** Bash / PowerShell.
+* **What it does:** Cleanly removes Microsoft Edge from Windows systems, including registry entries and system hooks left behind by the default uninstaller.
 
 ---
 
