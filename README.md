@@ -1,4 +1,4 @@
-# Hi, I'm Chirag Sood! 👋
+# Hi, I'm Chirag! 👋
 
 ### Aspiring Software Engineer @ University of Victoria 🇨🇦
 **Actively seeking Summer 2026 Co-op opportunities**
