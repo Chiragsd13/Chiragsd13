@@ -1,11 +1,10 @@
 # Hi, I'm Chirag! 👋
 
 ### Aspiring Software Engineer @ University of Victoria 🇨🇦
-**Actively seeking Summer 2026 Co-op opportunities**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chiragsd13&color=58a6ff&style=flat-square&label=Profile+Views)
 
-I am a Software Engineering student (Class of 2027) at the University of Victoria with a passion for building high-impact solutions that merge **Generative AI** with **Social Good**. I am a Linux power user, a cybersecurity enthusiast, and a two-time hackathon winner.
+I am a Software Engineering student (Class of 2027) at the University of Victoria who builds practical software to solve real problems by combining **Generative AI**, full-stack systems, and security-minded engineering. I am a Linux power user, a cybersecurity enthusiast, and a two-time hackathon winner.
 
 ---
 
@@ -35,21 +34,20 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 ## 🏆 Achievements & Hackathon Wins
 
 * **People's Choice Award ($150 Prize)** | Inspire Hackathon (Jan 2026)
-    * Developed an AI-powered food redistribution platform using Firebase and Gemini 1.5 Pro.
-* **2nd Place ($80 Prize)** | WECS x VikesLab Hackathon (Jan 2026)
-    * Engineered *CommonGround*, a restorative justice ecosystem using Gen AI scenarios.
+    * Built an AI-powered food redistribution platform to match food supply with community need by combining Firebase, route optimization, and Gemini 1.5 Pro.
+* **2nd Place ($160 Total Prize)** | WECS x VikesLab Hackathon (Jan 2026)
+    * Built *CommonGround* to make conflict-resolution outcomes easier to explore by combining branching Gen AI scenarios with a Healing Dashboard.
 
 ---
 
 ## 💼 Relevant Experience
 
 **Cyber Security Club – University of Victoria** | *Oct 2025 – Present*
-* **Hardening Linux systems** through firewall configuration and secure SSH protocols during Red vs. Blue exercises.
-* **Automating security audits** using Bash and Python scripts to identify system vulnerabilities and analyze logs.
+* **Hardened Linux systems** for Red vs. Blue exercises by configuring firewalls and secure SSH workflows.
+* **Automated security audits** to speed up vulnerability checks and log analysis by writing Bash and Python scripts.
 
-**Satellite Design Club – University of Victoria** | *Dec 2024 – March 2025*
-* **Optimized sensor validation** by developing Python-based automation, improving data accuracy for flight systems.
-* **Engineered UI components** for real-time telemetry monitoring and system metrics visualization.
+**Claude Builder Club** | *Jan 2026 – Mar 2026*
+* **Built and iterated Claude-based prototypes** to test ideas quickly in a 3-month builder community by shipping rapid experiments and improving them through feedback.
 
 ---
 
@@ -57,21 +55,27 @@ I am a Software Engineering student (Class of 2027) at the University of Victori
 
 #### [Claude Smart Routing](https://github.com/Chiragsd13/claude-smart-routing) 🤖
 * **Tech Stack:** Claude API (Haiku / Sonnet / Opus), TypeScript, Prompt Engineering.
-* **What it does:** Intelligent routing layer that auto-selects the right Claude model based on task complexity — cutting token costs without sacrificing quality. Combines ideas from leading open-source Claude toolkits.
+* **What it does:** Built a routing layer to reduce unnecessary Claude spend by assigning each task to the right model based on complexity.
 #### [Hazard Reporter - Incident Management Platform](https://github.com/Janhvi-Pandya/hazard-reporter) 🚨
 * **Tech Stack:** React, TypeScript, Node.js, Express.js, SQLite, Tailwind CSS, Vite.
-* **What it does:** Full-stack incident reporting platform with role-based access control (admin/user), AI-driven smart routing to auto-assign hazards by category and urgency, real-time filtering dashboard, interactive map pinning, and JWT-inspired auth. Built in collaboration at the Claude Hackathon.
+* **What it does:** Built a full-stack incident reporting platform that helped teams triage and assign hazards faster using AI-driven routing, role-based access control, and a real-time operations dashboard.
 #### [CommonGround - Restorative Justice Platform](https://github.com/Anshit-K/VikesXWecs-Hackathon.git) ⚖️
+* **Recognition:** 2nd Place at WECS x VikesLab Hackathon ($160 Total Prize).
 * **Tech Stack:** React, Tailwind CSS, Generative AI (Google Gemini).
-* **Innovation:** Created an interactive branching story engine to visualize the impact of conflict resolution choices through a "Healing Dashboard."
+* **Innovation:** Built a branching story engine and interactive "Healing Dashboard" to help users explore conflict-resolution choices.
 
 #### [Food Donation & Soup Kitchen Platform](https://github.com/eshu3104/uvichacks-jan26.git) 🍎
 * **Tech Stack:** Firebase, Route Optimization Algorithms, Gemini 1.5 Pro.
-* **Innovation:** Integrated real-time inventory tracking and optimized delivery logistics to streamline food distribution.
+* **Innovation:** Built a food redistribution platform to streamline logistics by combining real-time inventory tracking, route optimization, and Gemini-assisted coordination.
 
 #### [Microsoft Edge Uninstaller](https://github.com/Chiragsd13/microsoft-edge-uninstaller) 🧹
 * **Tech Stack:** Bash / PowerShell.
-* **What it does:** Cleanly removes Microsoft Edge from Windows systems, including registry entries and system hooks left behind by the default uninstaller.
+* **What it does:** Built a Windows cleanup utility to remove Microsoft Edge more completely by deleting registry entries and system hooks left behind by the default uninstaller.
+
+#### [Midnight Harvest](https://github.com/Chiragsd13/midnight-harvest) 🌽
+* **Tech Stack:** Three.js, Vite, Web Audio API, JavaScript.
+* **What it does:** Built a first-person horror survival game that turns procedural atmosphere, environmental cues, and smoke pressure into a five-minute escape from a burning midnight cornfield.
+* **Play it here:** [midnight-harvest.vercel.app](https://midnight-harvest.vercel.app/)
 
 ---
 
