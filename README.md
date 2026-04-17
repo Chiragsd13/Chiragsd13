@@ -54,10 +54,11 @@ I build practical software that solves real problems by combining **Generative A
 ---
 
 ### 📊 GitHub Pulse
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&custom_title=Chirag%27s%20GitHub%20Stats" height="180" />
-  <img src="https://streak-stats.demolab.com?user=Chiragsd13&theme=tokyonight&border_radius=7&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF&hide_current_streak=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Chiragsd13&theme=transparent&border_radius=7&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" 
+username=Chiragsd13&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
