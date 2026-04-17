@@ -158,11 +158,7 @@ I build practical software that solves real problems by combining **Generative A
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Chiragsd13">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="45" alt="GitHub" style="filter: invert(85%);" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://midnight-harvest.vercel.app/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="Portfolio" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="45" alt="GitHub" />
   </a>
 </p>
 
