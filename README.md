@@ -38,7 +38,7 @@ I build practical software that solves real problems by combining **Generative A
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,bash,react,nodejs,tailwind&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux,git,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ I build practical software that solves real problems by combining **Generative A
 ### 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&custom_title=Chirag%27s%20GitHub%20Stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=Chiragsd13&theme=tokyonight&border_radius=7&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF" height="165" />
 </div>
 
@@ -65,7 +65,7 @@ I build practical software that solves real problems by combining **Generative A
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragsd13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragsd13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&custom_title=Chirag%27s%20Contribution%20Graph" />
 </div>
 
 ---
