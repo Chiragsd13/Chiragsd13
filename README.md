@@ -1,91 +1,168 @@
-# Hi, I'm Chirag! 👋
+<h1 align="center">Hey, I'm Chirag 👋</h1>
+<h3 align="center">Aspiring Software Engineer @ University of Victoria 🇨🇦</h3>
 
-### Aspiring Software Engineer @ University of Victoria 🇨🇦
+<p align="center">
+  <!-- Pick one of these GIFs (cyber/hacker vibe, matches your Linux + security identity) -->
+  <!-- Matrix terminal:  https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
+  <!-- Hacker typing:    https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif -->
+  <!-- Glitch terminal:  https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chiragsd13&color=58a6ff&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineering+Student+%F0%9F%8E%93;Linux+Power+User+%F0%9F%90%A7;Cybersecurity+Enthusiast+%F0%9F%94%90;Two-Time+Hackathon+Winner+%F0%9F%8F%86;Always+shipping+something+%F0%9F%9A%80" />
+</p>
 
-I am a Software Engineering student (Class of 2027) at the University of Victoria who builds practical software to solve real problems by combining **Generative AI**, full-stack systems, and security-minded engineering. I am a Linux power user, a cybersecurity enthusiast, and a two-time hackathon winner.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chiragsd13&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Chiragsd13?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/badge/Hackathons-2%20Wins-58a6ff?style=for-the-badge&logo=devpost&logoColor=white&labelColor=0d1117" />
+</p>
 
 ---
 
-## 📈 GitHub Activity
+### 🧠 About Me
+
+I build practical software that solves real problems by combining **Generative AI**, full-stack systems, and security-minded engineering. Two-time hackathon winner, Linux power user, CTF enthusiast with an obsession for the low-level guts of things.
+
+- 🎯 Currently → shipping Claude-based prototypes @ Claude Builder Club
+- 🐧 Home turf → Ubuntu / Kali, tmux + vim, happiest in a terminal
+- 🔐 Cyber Security Club @ UVic → hardening Linux for Red vs Blue
+- 🎓 Class of 2027 @ University of Victoria
+- ⚡ Fun fact → I wrote an uninstaller just to purge Microsoft Edge properly
+
+---
+
+### ⚡ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,bash,react,redux,nodejs,express,tailwind&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux,githubactions,postgres,git,vscode,figma,vite&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4E2A84?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Pulse
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chiragsd13&theme=transparent&border_radius=7&short_numbers=true&mode=weekly" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragsd13&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiragsd13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Chiragsd13&theme=tokyonight&border_radius=7&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiragsd13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chiragsd13&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chiragsd13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" />
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+### 🏆 Trophy Case
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/), [Java](https://www.java.com/), [C/C++](https://isocpp.org/), [HTML5/CSS](https://developer.mozilla.org/en-US/docs/Web/HTML), [SQL](https://www.postgresql.org/), [Assembly](https://www.nasm.us/), [Bash](https://www.gnu.org/software/bash/) |
-| **Frameworks** | [React](https://react.dev/), [Redux](https://redux.js.org/), [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Tailwind CSS](https://tailwindcss.com/) |
-| **Cloud & Backend** | [Firebase](https://firebase.google.com/) (Auth, Firestore, Functions), [Gemini API](https://ai.google.dev/), [Google Cloud](https://cloud.google.com/) |
-| **Cyber & DevOps** | [Linux](https://www.linux.org/) (Ubuntu/Kali), [Docker](https://www.docker.com/), [GitHub Actions](https://github.com/features/actions), [CI/CD](https://about.gitlab.com/topics/ci-cd/), [Nmap](https://nmap.org/), [Burp Suite](https://portswigger.net/burp) |
-| **AI & LLMs** | [Claude API](https://docs.anthropic.com/), [Gemini 1.5 Pro](https://ai.google.dev/), Prompt Engineering, Agent Orchestration |
+> 🥇 **People's Choice Award** — Inspire Hackathon • Jan 2026 • $150
+> AI-powered food redistribution platform combining Firebase, route optimization, and Gemini 1.5 Pro.
+
+> 🥈 **2nd Place** — WECS × VikesLab Hackathon • Jan 2026 • $160
+> *CommonGround* — branching Gen AI scenarios + a Healing Dashboard for conflict resolution.
 
 ---
 
-## 🏆 Achievements & Hackathon Wins
+### 🚀 Featured Builds
 
-* **People's Choice Award ($150 Prize)** | Inspire Hackathon (Jan 2026)
-    * Built an AI-powered food redistribution platform to match food supply with community need by combining Firebase, route optimization, and Gemini 1.5 Pro.
-* **2nd Place ($160 Total Prize)** | WECS x VikesLab Hackathon (Jan 2026)
-    * Built *CommonGround* to make conflict-resolution outcomes easier to explore by combining branching Gen AI scenarios with a Healing Dashboard.
-
----
-
-## 💼 Relevant Experience
-
-**Cyber Security Club – University of Victoria** | *Oct 2025 – Present*
-* **Hardened Linux systems** for Red vs. Blue exercises by configuring firewalls and secure SSH workflows.
-* **Automated security audits** to speed up vulnerability checks and log analysis by writing Bash and Python scripts.
-
-**Claude Builder Club** | *Jan 2026 – Mar 2026*
-* **Built and iterated Claude-based prototypes** to test ideas quickly in a 3-month builder community by shipping rapid experiments and improving them through feedback.
-
----
-
-## 📂 Featured Projects
-
-#### [Claude Smart Routing](https://github.com/Chiragsd13/claude-smart-routing) 🤖
-* **Tech Stack:** Claude API (Haiku / Sonnet / Opus), TypeScript, Prompt Engineering.
-* **What it does:** Built a routing layer to reduce unnecessary Claude spend by assigning each task to the right model based on complexity.
-#### [Hazard Reporter - Incident Management Platform](https://github.com/Janhvi-Pandya/hazard-reporter) 🚨
-* **Tech Stack:** React, TypeScript, Node.js, Express.js, SQLite, Tailwind CSS, Vite.
-* **What it does:** Built a full-stack incident reporting platform that helped teams triage and assign hazards faster using AI-driven routing, role-based access control, and a real-time operations dashboard.
-#### [CommonGround - Restorative Justice Platform](https://github.com/Anshit-K/VikesXWecs-Hackathon.git) ⚖️
-* **Recognition:** 2nd Place at WECS x VikesLab Hackathon ($160 Total Prize).
-* **Tech Stack:** React, Tailwind CSS, Generative AI (Google Gemini).
-* **Innovation:** Built a branching story engine and interactive "Healing Dashboard" to help users explore conflict-resolution choices.
-
-#### [Food Donation & Soup Kitchen Platform](https://github.com/eshu3104/uvichacks-jan26.git) 🍎
-* **Tech Stack:** Firebase, Route Optimization Algorithms, Gemini 1.5 Pro.
-* **Innovation:** Built a food redistribution platform to streamline logistics by combining real-time inventory tracking, route optimization, and Gemini-assisted coordination.
-
-#### [Microsoft Edge Uninstaller](https://github.com/Chiragsd13/microsoft-edge-uninstaller) 🧹
-* **Tech Stack:** Bash / PowerShell.
-* **What it does:** Built a Windows cleanup utility to remove Microsoft Edge more completely by deleting registry entries and system hooks left behind by the default uninstaller.
-
-#### [Midnight Harvest](https://github.com/Chiragsd13/midnight-harvest) 🌽
-* **Tech Stack:** Three.js, Vite, Web Audio API, JavaScript.
-* **What it does:** Built a first-person horror survival game that turns procedural atmosphere, environmental cues, and smoke pressure into a five-minute escape from a burning midnight cornfield.
-* **Play it here:** [midnight-harvest.vercel.app](https://midnight-harvest.vercel.app/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Chiragsd13/claude-smart-routing">Claude Smart Routing</a></h4>
+      <p>Routing layer that assigns each task to Haiku / Sonnet / Opus based on complexity. Cuts Claude spend without dropping quality.</p>
+      <p><code>Claude API</code> <code>TypeScript</code> <code>Prompt Eng</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌽 <a href="https://github.com/Chiragsd13/midnight-harvest">Midnight Harvest</a></h4>
+      <p>First-person horror survival — five-minute escape from a burning midnight cornfield. Procedural atmosphere, smoke pressure, environmental cues.</p>
+      <p><code>Three.js</code> <code>Vite</code> <code>Web Audio API</code></p>
+      <p>▶ <a href="https://midnight-harvest.vercel.app/">Play it</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚨 <a href="https://github.com/Janhvi-Pandya/hazard-reporter">Hazard Reporter</a></h4>
+      <p>Full-stack incident platform. AI-driven triage, role-based access, real-time ops dashboard.</p>
+      <p><code>React</code> <code>Node</code> <code>Express</code> <code>SQLite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚖️ <a href="https://github.com/Anshit-K/VikesXWecs-Hackathon.git">CommonGround</a></h4>
+      <p>Branching story engine + "Healing Dashboard" for restorative justice. 🏆 2nd Place at WECS × VikesLab.</p>
+      <p><code>React</code> <code>Gemini</code> <code>Tailwind</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍎 <a href="https://github.com/eshu3104/uvichacks-jan26.git">Food Donation Platform</a></h4>
+      <p>Logistics for food redistribution — real-time inventory, route optimization, Gemini-assisted coordination.</p>
+      <p><code>Firebase</code> <code>Gemini</code> <code>Route Opt</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧹 <a href="https://github.com/Chiragsd13/microsoft-edge-uninstaller">Edge Uninstaller</a></h4>
+      <p>Windows cleanup utility that actually removes Edge — registry entries, system hooks, the lot.</p>
+      <p><code>Bash</code> <code>PowerShell</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐧 Linux & Security
-- **Power User:** I live in the Linux terminal and specialize in system hardening and automation.
-- **Open Source:** I frequently audit GitHub tools to understand low-level implementation and contribute back via documentation or bug fixes.
-- **CTF Enthusiast:** Actively building a toolkit for faster network scanning and vulnerability triage.
+### 🐧 Where I Live
+
+<p align="center">
+  <!-- Alt: https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif (terminal) -->
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="420" />
+</p>
+
+- 🐚 Linux terminal → system hardening, automation, Bash + Python scripting
+- 🔍 Open source → auditing tools, reading low-level guts, occasional PRs
+- 🚩 CTF → building a toolkit for faster network scans & vuln triage
 
 ---
 
-## 📫 Let's Connect
-- **LinkedIn:** [Chiragsd13](https://linkedin.com/in/Chiragsd13)
-- **Email:** [chiragsood@uvic.ca](mailto:chiragsood@uvic.ca)
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chiragsd13/Chiragsd13/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/Chiragsd13" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:chiragsood@uvic.ca">
+    <img src="https://raw.githubusercontent.com/sempostma/office365-icons/c39f36c3d263638514661bb77419f679eb742f6c/svg/outlook.svg" height="45" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Chiragsd13">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="45" alt="GitHub" style="filter: invert(85%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://midnight-harvest.vercel.app/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center"><i>"Break things on purpose. Build things that last."</i></p>
