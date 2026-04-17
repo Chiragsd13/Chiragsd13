@@ -38,7 +38,7 @@ I build practical software that solves real problems by combining **Generative A
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,bash,react,nodejs,tailwind&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,docker,linux,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -48,6 +48,7 @@ I build practical software that solves real problems by combining **Generative A
   <img src="https://img.shields.io/badge/Nmap-4E2A84?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
 ---
