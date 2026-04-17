@@ -36,18 +36,18 @@ I build practical software that solves real problems by combining **Generative A
 ### ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,html,css,bash,react,redux,nodejs,express,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,bash,react,nodejs,tailwind&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux,githubactions,postgres,git,vscode,figma,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,docker,linux,git,vite&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_1.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_2.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-4E2A84?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I build practical software that solves real problems by combining **Generative A
 ### 🏆 Trophy Case
 
 > 🥇 **People's Choice Award** — Inspire Hackathon • Jan 2026 • $150
-> AI-powered food redistribution platform combining Firebase, route optimization, and Gemini 1.5 Pro.
+> AI-powered food redistribution platform combining Firebase, route optimization, and Gemini 2.5 Pro.
 
 > 🥈 **2nd Place** — WECS × VikesLab Hackathon • Jan 2026 • $160
 > *CommonGround* — branching Gen AI scenarios + a Healing Dashboard for conflict resolution.
