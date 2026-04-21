@@ -150,7 +150,7 @@ username=Chiragsd13&layout=compact&theme=transparent&hide_border=true" alt="Top 
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/Chiragsd13" target="_blank">
+  <a href="https://linkedin.com/in/Chiragsd13">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
