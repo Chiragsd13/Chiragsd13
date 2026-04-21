@@ -157,10 +157,6 @@ username=Chiragsd13&layout=compact&theme=transparent&hide_border=true" alt="Top 
   <a href="mailto:chiragsood@uvic.ca">
     <img src="https://raw.githubusercontent.com/sempostma/office365-icons/c39f36c3d263638514661bb77419f679eb742f6c/svg/outlook.svg" height="45" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Chiragsd13">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="45" alt="GitHub" />
-  </a>
 </p>
 
 <p align="center"><i>"Break things on purpose. Build things that last."</i></p>
